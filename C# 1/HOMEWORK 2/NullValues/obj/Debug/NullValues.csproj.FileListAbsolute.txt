@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\NullValues\bin\Debug\NullValues.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\NullValues\bin\Debug\NullValues.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\NullValues\bin\Debug\NullValues.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\NullValues\obj\Debug\NullValues.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\NullValues\obj\Debug\NullValues.pdb

@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\ExchangeVariablesValues\bin\Debug\ExchangeVariablesValues.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\ExchangeVariablesValues\bin\Debug\ExchangeVariablesValues.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\ExchangeVariablesValues\bin\Debug\ExchangeVariablesValues.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\ExchangeVariablesValues\obj\Debug\ExchangeVariablesValues.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\ExchangeVariablesValues\obj\Debug\ExchangeVariablesValues.pdb

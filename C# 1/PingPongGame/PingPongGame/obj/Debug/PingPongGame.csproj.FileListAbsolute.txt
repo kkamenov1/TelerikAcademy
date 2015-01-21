@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\PingPongGame\PingPongGame\bin\Debug\PingPongGame.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\PingPongGame\PingPongGame\bin\Debug\PingPongGame.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\PingPongGame\PingPongGame\bin\Debug\PingPongGame.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\PingPongGame\PingPongGame\obj\Debug\PingPongGame.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\PingPongGame\PingPongGame\obj\Debug\PingPongGame.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\PingPongGame\PingPongGame\obj\Debug\PingPongGame.pdb

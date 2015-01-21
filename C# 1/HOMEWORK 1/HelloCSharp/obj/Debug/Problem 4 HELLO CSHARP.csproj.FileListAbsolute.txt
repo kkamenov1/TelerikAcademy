@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\Solution1\ConsoleApplication1\obj\Debug\Problem 4 HELLO CSHARP.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\niki\documents\visual studio 2013\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\niki\documents\visual studio 2013\Projects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

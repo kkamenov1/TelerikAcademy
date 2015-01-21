@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

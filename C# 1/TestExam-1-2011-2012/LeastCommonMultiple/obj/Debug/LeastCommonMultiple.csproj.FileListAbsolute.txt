@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.pdb

@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\TestExample2011-2012\bin\Debug\TestExample2011-2012.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\TestExample2011-2012\bin\Debug\TestExample2011-2012.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\TestExample2011-2012\bin\Debug\TestExample2011-2012.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\TestExample2011-2012\obj\Debug\Cartesian Coordinate System.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\TestExample2011-2012\obj\Debug\TestExample2011-2012.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\TestExample2011-2012\obj\Debug\TestExample2011-2012.pdb

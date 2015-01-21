@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\StringAndObjects\bin\Debug\StringAndObjects.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\StringAndObjects\bin\Debug\StringAndObjects.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\StringAndObjects\obj\Debug\StringAndObjects.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\StringAndObjects\obj\Debug\StringAndObjects.pdb

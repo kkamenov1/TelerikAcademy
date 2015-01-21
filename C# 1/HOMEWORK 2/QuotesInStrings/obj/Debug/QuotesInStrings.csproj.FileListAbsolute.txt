@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

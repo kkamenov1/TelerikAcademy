@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\MissCat\bin\Debug\MissCat.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\MissCat\bin\Debug\MissCat.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\MissCat\bin\Debug\MissCat.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\MissCat\obj\Debug\MissCat.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\MissCat\obj\Debug\MissCat.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExample2011-2012\MissCat\obj\Debug\MissCat.pdb

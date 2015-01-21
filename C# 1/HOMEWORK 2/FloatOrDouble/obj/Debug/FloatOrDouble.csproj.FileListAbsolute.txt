@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

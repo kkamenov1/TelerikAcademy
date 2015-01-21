@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExpression", "ConsoleApplication1\MathExpression.csproj", "{68C175AF-3460-45A2-967F-E4600724C5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastCommonMultiple", "LeastCommonMultiple\LeastCommonMultiple.csproj", "{AF191194-8C0F-41C1-9C9F-2FC428098C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoid", "Trapezoid\Trapezoid.csproj", "{214B086D-228E-40CF-B82A-9ED036D4324D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C175AF-3460-45A2-967F-E4600724C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C175AF-3460-45A2-967F-E4600724C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C175AF-3460-45A2-967F-E4600724C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C175AF-3460-45A2-967F-E4600724C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF191194-8C0F-41C1-9C9F-2FC428098C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF191194-8C0F-41C1-9C9F-2FC428098C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF191194-8C0F-41C1-9C9F-2FC428098C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF191194-8C0F-41C1-9C9F-2FC428098C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214B086D-228E-40CF-B82A-9ED036D4324D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214B086D-228E-40CF-B82A-9ED036D4324D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214B086D-228E-40CF-B82A-9ED036D4324D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214B086D-228E-40CF-B82A-9ED036D4324D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

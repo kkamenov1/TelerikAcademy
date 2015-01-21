@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\CompareFloats\bin\Debug\CompareFloats.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\CompareFloats\bin\Debug\CompareFloats.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\CompareFloats\bin\Debug\CompareFloats.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\CompareFloats\obj\Debug\CompareFloats.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\CompareFloats\obj\Debug\CompareFloats.pdb

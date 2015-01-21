@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\BooleanVariable\obj\Debug\BooleanVariable.pdb

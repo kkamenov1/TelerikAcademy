@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\ExtractBitAtPositionP\bin\Debug\ExtractBitAtPositionP.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\ExtractBitAtPositionP\bin\Debug\ExtractBitAtPositionP.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\ExtractBitAtPositionP\bin\Debug\ExtractBitAtPositionP.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\ExtractBitAtPositionP\obj\Debug\ExtractBitAtPositionP.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\ExtractBitAtPositionP\obj\Debug\ExtractBitAtPositionP.pdb

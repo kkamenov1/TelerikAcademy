@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

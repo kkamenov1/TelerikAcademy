@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumberComparer\obj\Debug\NumberComparer.pdb

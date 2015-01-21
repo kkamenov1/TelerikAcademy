@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\VariableInHexadecimal\bin\Debug\VariableInHexadecimal.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\VariableInHexadecimal\bin\Debug\VariableInHexadecimal.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\VariableInHexadecimal\bin\Debug\VariableInHexadecimal.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\VariableInHexadecimal\obj\Debug\VariableInHexadecimal.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK 2\VariableInHexadecimal\obj\Debug\VariableInHexadecimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\ConsoleApplication1\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\TestExam-1-2011-2012\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

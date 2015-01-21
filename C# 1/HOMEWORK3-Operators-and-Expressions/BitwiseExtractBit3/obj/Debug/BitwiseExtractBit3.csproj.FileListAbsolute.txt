@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb

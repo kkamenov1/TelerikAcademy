@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\CheckBitInGivenPosition\bin\Debug\CheckBitInGivenPosition.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\CheckBitInGivenPosition\bin\Debug\CheckBitInGivenPosition.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\CheckBitInGivenPosition\bin\Debug\CheckBitInGivenPosition.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\CheckBitInGivenPosition\obj\Debug\CheckBitInGivenPosition.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\CheckBitInGivenPosition\obj\Debug\CheckBitInGivenPosition.pdb

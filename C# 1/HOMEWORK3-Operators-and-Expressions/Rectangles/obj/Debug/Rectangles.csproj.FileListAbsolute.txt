@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\Rectangles\obj\Debug\Rectangles.pdb

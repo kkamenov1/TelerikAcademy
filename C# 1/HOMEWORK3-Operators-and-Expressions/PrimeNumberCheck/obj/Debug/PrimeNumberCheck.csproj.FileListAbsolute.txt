@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Solution1]\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

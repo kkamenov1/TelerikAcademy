@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
