@@ -3,3 +3,6 @@ C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTP
 C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
 C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
 C:\Users\Niki\Documents\Visual Studio 2013\Projects\HOMEWORK4-CONSOLE-INPUT-OUTPUT\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\C# 1\HOMEWORK4-CONSOLE-INPUT-OUTPUT\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\C# 1\HOMEWORK4-CONSOLE-INPUT-OUTPUT\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\C# 1\HOMEWORK4-CONSOLE-INPUT-OUTPUT\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

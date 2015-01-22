@@ -55,6 +55,8 @@ namespace FallingRocks
             Console.ForegroundColor = color;
             Console.Write(stringtoprint);
         }
+        
+        
         static void Main()
         {
             // Some properties and variables to be used
@@ -141,7 +143,7 @@ namespace FallingRocks
                     {
                         PrintOnPosition(newDwarf.col--, newDwarf.row, "   ", newDwarf.color);
                     }
-                    if (userInput.Key == ConsoleKey.RightArrow && newDwarf.col < Console.WindowWidth)
+                    if (userInput.Key == ConsoleKey.RightArrow && newDwarf.col < Console.WindowWidth - 4)
                     {
                         PrintOnPosition(newDwarf.col++, newDwarf.row, "   ", newDwarf.color);
                     }
