@@ -4,3 +4,6 @@ C:\Users\Niki\Documents\Visual Studio 2013\Projects\SnakeGame\SnakeGame\bin\Debu
 C:\Users\Niki\Documents\Visual Studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
 C:\Users\Niki\Documents\Visual Studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
 C:\Users\Niki\Documents\Visual Studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\C# 1\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\C# 1\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\C# 1\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
